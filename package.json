@@ -1,0 +1,28 @@
+{
+  "name": "typescriptsolid",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iarlen-reis/AprendendoTypeScript-LuizOtavioMiranda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iarlen-reis/AprendendoTypeScript-LuizOtavioMiranda/issues"
+  },
+  "homepage": "https://github.com/iarlen-reis/AprendendoTypeScript-LuizOtavioMiranda#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.2",
+    "ts-loader": "^9.4.2",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
