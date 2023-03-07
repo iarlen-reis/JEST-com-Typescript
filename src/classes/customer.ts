@@ -2,7 +2,7 @@ import {
   IndivdualCustomerProtocol,
   EnterpriseCustomerProtocol,
   CustomerOrder,
-} from "./customerProtocol";
+} from "./interfaces/customerProtocol";
 
 // Pessoa fisica
 export class IndivdualCustomer

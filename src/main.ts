@@ -8,10 +8,7 @@ import {
   TenPercentDiscount,
   NoDiscount,
 } from "./classes/discount";
-import {
-  EnterpriseCustomer,
-  IndivdualCustomer,
-} from "./classes/interfaces/customer";
+import { EnterpriseCustomer, IndivdualCustomer } from "./classes/customer";
 import { MessagingProtocol } from "./classes/interfaces/messageProtocol";
 
 //discounts
