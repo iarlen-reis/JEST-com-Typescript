@@ -1,4 +1,4 @@
-import { ShoppingCart } from "./classes/dependencyInversion";
+import { ShoppingCart } from "./classes/shoppingCart";
 import { Order } from "./classes/order";
 import { Messaging } from "./services/message";
 import { Persistency } from "./services/persistency";
